@@ -1,5 +1,3 @@
-Certainly! Below is the adapted version of the project description, formatted to be suitable for the README.md file on GitHub:
-
 # Data Analysis Project: Understanding Consumer Preferences and Market Strategies for CodeX Energy Drink
 
 This data analysis project explores consumer preferences and market strategies for CodeX Energy Drink, a prominent player in the energy drink industry. Using Python's powerful data manipulation libraries like Pandas, NumPy, and visualization tools like Matplotlib, the project uncovers crucial insights that can shape the brand's growth and success.
@@ -57,4 +55,4 @@ This project is released under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Credits
 
-This data analysis project was created by [Your Name] as part of [Your Project/Course Name].
+This data analysis project was created by Amar Kumar.

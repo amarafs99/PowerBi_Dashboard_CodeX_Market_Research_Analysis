@@ -45,6 +45,9 @@ Based on the observations, the project suggests the following recommendations fo
 3. Improve health-conscious product offerings with more natural ingredients and reduced sugar content.
 4. Introduce new and appealing flavors to attract a broader consumer base.
 
+[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
+
+
 ## How to Use
 
 The project code and insights can be accessed in the 'Final_Data_CodeX.csv' file. Feel free to explore the data and visualizations to gain valuable insights into the energy drink industry, marketing strategies, and brand enhancement.

@@ -1,5 +1,9 @@
 # Data Analysis Project: Understanding Consumer Preferences and Market Strategies for CodeX Energy Drink
 
+  ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
+   
+[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
+
 This data analysis project explores consumer preferences and market strategies for CodeX Energy Drink, a prominent player in the energy drink industry. Using Python's powerful data manipulation libraries like Pandas, NumPy, and visualization tools like Matplotlib, the project uncovers crucial insights that can shape the brand's growth and success.
 
 ## Project Overview
@@ -45,14 +49,7 @@ Based on the observations, the project suggests the following recommendations fo
 3. Improve health-conscious product offerings with more natural ingredients and reduced sugar content.
 4. Introduce new and appealing flavors to attract a broader consumer base.
 
-   ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
-   
-[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
-
-
-
-
-
+ 
 ## How to Use
 
 The project code and insights can be accessed in the 'Final_Data_CodeX.csv' file. Feel free to explore the data and visualizations to gain valuable insights into the energy drink industry, marketing strategies, and brand enhancement.

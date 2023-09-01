@@ -44,10 +44,9 @@ Based on the observations, the project suggests the following recommendations fo
 2. Enhance product availability in specific locations, especially supermarkets, gyms, and online stores.
 3. Improve health-conscious product offerings with more natural ingredients and reduced sugar content.
 4. Introduce new and appealing flavors to attract a broader consumer base.
+
+   ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
    
-   
-[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?LYCGPud0JZw)
-[![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
 [![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
 
 

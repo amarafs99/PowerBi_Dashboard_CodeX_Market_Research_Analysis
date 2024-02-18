@@ -1,6 +1,6 @@
 # Data Analysis Project: Understanding Consumer Preferences and Market Strategies for CodeX Energy Drink
 
-  ## 🚀 ** Click On The Below Image To Play The Watch the Dashboard's Video! ** 🎥
+  ## 🚀 ** Click On The Below Image To Watch Dashboard's Video! ** 🎥
    
 [![Project Video](https://img.youtube.com/vi/LYCGPud0JZw/0.jpg)](https://www.youtube.com/watch?v=LYCGPud0JZw)
 
